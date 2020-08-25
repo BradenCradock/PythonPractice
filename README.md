@@ -1,4 +1,4 @@
 # PythonPractice
 
-Solutions to practise problems found here:
+Solutions to practice problems found here:
 https://www.practicepython.org/
